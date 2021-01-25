@@ -18,7 +18,7 @@ press "q" to quit.
 The app is constantly re-rendered in a loop so it will resize with your terminal.
 
 ## Setup
-Applications folder contains information for all applications both gitlab projects as well as anything local such as databases or queues
+Applications json file contains information for all applications both gitlab projects as well as anything local such as databases or queues
 
 to prevent an application from showing up under local set its port to 0
 
